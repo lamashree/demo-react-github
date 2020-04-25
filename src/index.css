@@ -1,13 +1,32 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.wrapper {
+    margin-top: 100px;
+    text-align: center;
+    margin: 200px;
+    width: auto;
+    height: 640px;
+    margin-top: 50px;
+
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+html body{
+    background-image: url("https://forum.unity.com/attachments/socialmediaimage5-png.259315/");
+}
+
+.info-container{
+    width: auto;
+    height: 150px;
+    text-align: center;
+    background: #ECEFF1;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 50px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+
+}
+.Row {
+    margin: 50px;
+
+}
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
